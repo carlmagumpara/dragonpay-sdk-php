@@ -15,7 +15,7 @@
     ]
   },
   "require": {
-    "guzzlehttp/guzzle": "^7.0",
+    "guzzlehttp/guzzle": "^7.3",
     "katzgrau/klogger": "^1.2",
     "guzzlehttp/psr7": "2.7.x-dev"
   },
